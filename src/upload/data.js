@@ -820,6 +820,19 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "AMITH REDDY TADWAI",
+    role: "SOFTWARE DDEVELOPER",
+    image: "https://avatars.githubusercontent.com/u/78544785?s=400&u=f8e3117c2b0c6964fef871059f389da234f7a89e&v=4",
+    skills: ['CSS', 'HTML', 'node js', 'PYTHON'],
+    link: [
+      "https://github.com/iamsuperflash",
+      "https://www.linkedin.com/in/amith-reddy-tadwai-8aa296189/",
+      "https://twitter.com/iam_superflash",
+    ],
+  }
+
+
 ];
 
 
